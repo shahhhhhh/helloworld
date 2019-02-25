@@ -1,3 +1,24 @@
 body{
-    background-color: skyblue;
+    font-family: "PT Sans Narrow";
+}
+
+.navbar{
+    text-transform: uppercase;
+}
+
+.nav-link{
+    background-color: lightblue;
+}
+
+.nav-link:hover{
+    opacity: 1;
+    background-color: blue;
+}
+
+header {
+    background-image: url(flowerofthemonthclub.jpg);
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
 }
