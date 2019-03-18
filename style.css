@@ -29,10 +29,6 @@ header {
     background-color: white;
 }
 
-
-p{
-    font-size: 35px;
-}
 button{
     margin-left: 100px;
 }
@@ -57,16 +53,11 @@ img{
     width: 200px;
 }
 
-h1{
-    font-size: 35px;
-}
 
-h3{
-    font-size: 24px;
-}
 
 p{
-    font-size:13px;
+    margin-left:10px;
+    margin-top:-5px;
 }
 
 .team img{
@@ -88,9 +79,14 @@ section{
 }
 
 .contact button{
-    width: 100%;
+    width: 100px;
 }
 
 .contact button:hover{
     background-color: red;
 }
+
+.footer{
+    padding: 10px;
+}
+
